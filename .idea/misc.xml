@@ -3,12 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/ic_applogo.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/side_nav_bar.xml" value="0.2165" />
         <entry key="app/src/main/res/drawable/gradient_type_1.xml" value="0.2" />
         <entry key="app/src/main/res/drawable/gradient_type_2.xml" value="0.1945" />
         <entry key="app/src/main/res/drawable/gradient_type_3.xml" value="0.1945" />
         <entry key="app/src/main/res/drawable/gradient_type_4.xml" value="0.1945" />
         <entry key="app/src/main/res/drawable/gradient_type_5.xml" value="0.1945" />
         <entry key="app/src/main/res/drawable/gradient_type_6.xml" value="0.1945" />
+        <entry key="app/src/main/res/layout/activity_landing_index.xml" value="0.35833333333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
       </map>
     </option>
