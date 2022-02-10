@@ -11,8 +11,10 @@
         <entry key="app/src/main/res/drawable/gradient_type_4.xml" value="0.1945" />
         <entry key="app/src/main/res/drawable/gradient_type_5.xml" value="0.1945" />
         <entry key="app/src/main/res/drawable/gradient_type_6.xml" value="0.1945" />
+        <entry key="app/src/main/res/layout/activity_dashboard1.xml" value="0.34427083333333336" />
         <entry key="app/src/main/res/layout/activity_landing_index.xml" value="0.35833333333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/item_view.xml" value="0.35833333333333334" />
       </map>
     </option>
   </component>

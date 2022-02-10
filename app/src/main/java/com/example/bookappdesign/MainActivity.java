@@ -20,22 +20,22 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 //        ImageView imageView = findViewById(R.id.SplashScreenImage);
-//        ImageView imageView2 = findViewById(R.id.SplashScreenImage2);
 //
 //        Animation animationUtils = AnimationUtils.loadAnimation(this, R.anim.side_slide_example);
-//        Animation animationUtils2 = AnimationUtils.loadAnimation(this, R.anim.side_slide_example_2);
 //
 //        imageView.startAnimation(animationUtils);
-//        imageView2.startAnimation(animationUtils2);
 
         TextView textView1 = findViewById(R.id.textView1);
         TextView textView2 = findViewById(R.id.textView2);
+        ImageView imageView2 = findViewById(R.id.SplashScreenImage2);
 //
         Animation animationUtils = AnimationUtils.loadAnimation(this, R.anim.side_slide_example);
         Animation animationUtils2 = AnimationUtils.loadAnimation(this, R.anim.side_slide_example_2);
+        Animation animationUtils3 = AnimationUtils.loadAnimation(this, R.anim.side_slide_example_3);
 
         textView1.startAnimation(animationUtils);
         textView2.startAnimation(animationUtils2);
+        imageView2.startAnimation(animationUtils3);
 
         changeActivity();
     }
